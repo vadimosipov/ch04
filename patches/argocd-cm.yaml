@@ -6,3 +6,4 @@ data:
   accounts.alina: apiKey, login
   accounts.vadim: apiKey, login
   admin.enabled: "false"
+  accounts.gitops-ci: apiKey
