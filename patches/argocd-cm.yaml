@@ -5,3 +5,4 @@ metadata:
 data:
   accounts.alina: apiKey, login
   accounts.vadim: apiKey, login
+  admin.enabled: "false"
